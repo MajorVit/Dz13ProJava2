@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/main/java/Collections/FIlmVNalichii.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Collections/GameOfTheYear.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/Collections/Osnova.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/collections/FIlmVNalichii.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/collections/GameOfTheYear.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/collections/Osnova.java" charset="UTF-8" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package Collections;
+package collections;
 
 public class Osnova {
     public static void main(String[] args) {
